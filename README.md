@@ -1,7 +1,7 @@
 # Exercicios de Python Resolvidos Curso Em Video
  Exercícios do __Mundo 1__ ao __3__ dados no curso da plataforma __*Curso em Vídeo*__ ministrado pelo professor __*Gustavo Guanabara*__.
 
-## Mundo 1
+## Mundo 1:
  
 1. __Início__
    * __ex001__ - *Deixando tudo pronto*
@@ -47,3 +47,49 @@
 
 ## ✔️ Certificado Mundo 1:
 ![Certificado Python 3 - Mundo 1](mundo1.png)
+
+## Mundo 2:
+
+1. __Condições Aninhadas__
+   * __ex036__ - *Aprovando Empréstimo*
+   * __ex037__ - *Conversor de Bases Numéricas*
+   * __ex038__ - *Comparando números*
+   * __ex039__ - *Alistamento Militar*
+   * __ex040__ - *Aquele clássico da Média*
+   * __ex041__ - *Classificando Atletas*
+   * __ex042__ - *Analisando Triângulos v2.0*
+   * __ex043__ - *Índice de Massa Corporal*
+   * __ex044__ - *Gerenciador de Pagamentos*
+   * __ex045__ - *GAME Pedra Papel e Tesoura*
+2. __Estrutura de repetição for__
+   * __ex046__ - *Contagem regressiva*
+   * __ex047__ - *Contagem de pares*
+   * __ex048__ - *Soma ímpares múltiplos de três*
+   * __ex049__ - *Tabuada v.2.0*
+   * __ex050__ - *Soma dos pares*
+   * __ex051__ - *Progressão Aritmética*
+   * __ex052__ - *Números primos*
+   * __ex053__ - *Detector de Palíndromo*
+   * __ex054__ - *Grupo da Maioridade*
+   * __ex055__ - *Maior e menor da sequência*
+   * __ex056__ - *Analisador completo*
+3. __Estrutura de repetição while__
+   * __ex057__ - *Validação de Dados*
+   * __ex058__ - *Jogo da Adivinhação v2.0*
+   * __ex059__ - *Criando um Menu de Opções*
+   * __ex060__ - *Cálculo do Fatorial*
+   * __ex061__ - *Progressão Aritmética v2.0*
+   * __ex062__ - *Super Progressão Aritmética v3.0*
+   * __ex063__ - *Sequência de Fibonacci v1.0*
+   * __ex064__ - *Tratando vários valores v1.0*
+   * __ex065__ - *Maior e Menor valores*
+4. __Interrompendo repetições while__
+   * __ex066__ - *Vários números com flag*
+   * __ex067__ - *Tabuada v3.0*
+   * __ex068__ - *Jogo do Par ou Ímpar*
+   * __ex069__ - *Análise de dados do grupo*
+   * __ex070__ - *Estatísticas em produtos*
+   * __ex071__ - *Simulador de Caixa Eletrônico*
+
+## ✔️ Certificado Mundo 2:
+![Certificado Python 3 - Mundo 2](mundo2.png)
