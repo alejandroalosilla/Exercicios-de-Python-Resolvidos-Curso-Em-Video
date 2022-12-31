@@ -45,5 +45,5 @@
    * __ex034__ - *Aumentos múltiplos*
    * __ex035__ - *Analisando Triângulo v1.0*
 
-## Certificado Mundo 1:
+## - [x] Certificado Mundo 1:
 ![Certificado Python 3 - Mundo 1](mundo1.png)
