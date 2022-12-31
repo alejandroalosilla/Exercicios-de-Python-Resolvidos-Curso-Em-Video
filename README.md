@@ -44,3 +44,6 @@
    * __ex033__ - *Maior e menor valores*
    * __ex034__ - *Aumentos múltiplos*
    * __ex035__ - *Analisando Triângulo v1.0*
+
+## Certificado Mundo 1:
+![Certificado Python 3 - Mundo 1](https://drive.google.com/file/d/1Sj1RaQHWIhVE6ORyTatNP_sPICvEEui7/view?usp=sharing)
