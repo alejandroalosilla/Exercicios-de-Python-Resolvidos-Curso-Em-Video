@@ -149,5 +149,5 @@
    * __ex114__ - *Site está acessível*
    * __ex115__ - *Criando um menu em Python*
 
-## ✔️ Certificado Mundo 2:
+## ✔️ Certificado Mundo 3:
 ![Certificado Python 3 - Mundo 3](mundo3.png)
